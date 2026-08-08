@@ -1,0 +1,3 @@
+/home/k/cpp-study/practice/build/CMakeFiles/out.dir
+/home/k/cpp-study/practice/build/CMakeFiles/edit_cache.dir
+/home/k/cpp-study/practice/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/out.dir/src/pointer.cpp.o CMakeFiles/out.dir/src/reference.cpp.o -o /home/k/cpp-study/practice/bin/out 
