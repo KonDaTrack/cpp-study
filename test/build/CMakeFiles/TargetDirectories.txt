@@ -1,3 +1,0 @@
-/home/k/cpp-study/test/build/CMakeFiles/app.dir
-/home/k/cpp-study/test/build/CMakeFiles/edit_cache.dir
-/home/k/cpp-study/test/build/CMakeFiles/rebuild_cache.dir
