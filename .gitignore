@@ -4,3 +4,6 @@ build/
 
 # 编辑器配置
 .vscode/
+
+# claude
+.claude/
